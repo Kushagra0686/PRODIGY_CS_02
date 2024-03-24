@@ -1,4 +1,4 @@
-** Serpent.py 🐍** 
+**Serpent.py🐍** 
 
 This repository contains the Python script `serpent.py`, a 🪄 magical tool for steganography using pixel image manipulation!  Steganography is the art of concealing a secret message within an ordinary image, making it invisible to the naked eye .
 
