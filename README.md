@@ -21,7 +21,7 @@ While `serpent.py` provides a basic implementation of steganography, it might no
 
 **Usage** 
 
-1. **Navigate:** Open your terminal and navigate to the directory containing the `serpent.py` script (i.e., the `PRODIGY_CS_02` directory).
+1. **Navigate:** Open your terminal and navigate to the directory containing the `serpent.py` script (i.e., the `Serpent` directory).
 2. **Run the script:** Execute the script using `python serpent.py`.
 
 **Interactivity** ️
