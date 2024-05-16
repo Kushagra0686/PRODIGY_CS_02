@@ -17,7 +17,7 @@ While `serpent.py` provides a basic implementation of steganography, it might no
 **Installation** 
 
 1. **Prerequisites:** Ensure you have Python 3 and the Pillow library (`pip install Pillow`) installed on your system.
-2. **Clone the repository:** Use `git clone https://github.com/Kushagra0686/PRODIGY_CS_02.git` to clone this repository locally .
+2. **Clone the repository:** Use `git clone https://github.com/Kushagra0686/Serpent` to clone this repository locally .
 
 **Usage** 
 
